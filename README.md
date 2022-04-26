@@ -20,6 +20,6 @@
 <img src="assets/images/level%20three.png" width="400" height="300">
 </p>
 
-### There are many more levels as one plays they the rows of bricks will increase
+### There are many more levels as one plays the brick rows increases.
 
 #### ⚠️⚠️ Currently game runs on [Code Guppy](https://codeguppy.com/code.html?zT0mOy0fG2u9W2twLYCl) platform, where i first developed it because of its simplicity using **p5.js** library.
